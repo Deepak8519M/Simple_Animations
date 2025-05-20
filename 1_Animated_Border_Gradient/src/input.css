@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --animate-border-spin: border-spin 7s linear infinite;
+
+  @keyframes border-spin {
+    100% {
+      transform: rotate(-360deg);
+    }
+  }
+}
+.card-wrapper {
+  @apply relative bg-gradient-to-b from-slate-700 to-slate-800   rounded-2xl overflow-hidden cursor-pointer;
+}
+
+.card-wrapper::before {
+  background: conic-gradient(
+    rgba(244, 114, 182, 0.5) 0deg,
+    rgba(192, 132, 252, 0.5) 0deg,
+    transparent 200deg
+  );
+
+  @apply h-[150%] w-[150%] left-[-25%] top-[-25%] content-[''] absolute animate-border-spin;
+}
+
+.card-content {
+  @apply w-[calc(100%-4px)] h-[calc(100%-4px)] top-[2px] left-[2px] bg-gradient-to-b from-slate-800 to-slate-900 rounded-2xl absolute;
+}
+
+/* Here the 3rd attrb(transparent) or property in conic gradient will specify how large or subtle the gradient would be  */
+
+/* rgba(244, 114, 182, 0.4) here the last value represents the opacity which means the visiblity of the animation */
