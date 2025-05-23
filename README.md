@@ -1,6 +1,4 @@
-Here’s a clean and professional README file based on your description, with a structured format and clear language:
 
----
 
 ## ✅👩🏻‍💻 Simple Animations – Using HTML, CSS, JS
 
