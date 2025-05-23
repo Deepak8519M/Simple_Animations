@@ -43,10 +43,7 @@ To build and practice **`beautiful animated components`** while learning how ani
 
 ---
 
-### 📌 Note
+### 📌` Note`
 
 These are practice components aimed at sharpening animation skills. You can mix, reuse, or improve them in larger projects.
 
----
-
-Let me know if you'd like me to include demo links, screenshots, or a contribution guideline for future collaborators!
