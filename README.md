@@ -1,23 +1,21 @@
-
-
-## ✅👩🏻‍💻 Simple Animations – Using HTML, CSS, JS
+## ✅👩🏻‍💻 `Simple Animations – Using HTML, CSS, JS`
 
 This folder contains **simple UI components** designed with a focus on **animations** using HTML, CSS, and JavaScript. These are small projects or snippets crafted to explore and understand different animation techniques like **glowing effects**, **rotating elements**, **hover transitions**, and more.
 
 ### 🎯 Purpose
 
-To build and practice **beautiful animated components** while learning how animations work in modern web development. Each component is lightweight and focused on one or more animation techniques.
+To build and practice **`beautiful animated components`** while learning how animations work in modern web development. Each component is lightweight and focused on one or more animation techniques.
 
 ---
 
 ### 📁 Components Included (So Far)
 
-1. **💳 Animated Card**
+1. **💳 `Animated Card`**
 
    * A card component with hover effects.
    * Includes transitions, transform effects, and subtle animations for a smooth UI experience.
 
-2. **🔘 Glowing Button Animation**
+2. **🔘 `Glowing Button Animation`**
 
    * A simple yet attractive button that glows and animates on hover.
    * Designed using keyframes and transition effects.
