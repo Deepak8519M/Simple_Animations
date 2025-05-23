@@ -39,6 +39,7 @@ To build and practice **`beautiful animated components`** while learning how ani
 * HTML5
 * CSS3 (Transitions, Keyframes, Transforms)
 * JavaScript (for triggering or controlling animations)
+* Taiwind Css (for quicker work flow)
 
 ---
 
