@@ -13,7 +13,7 @@ To build and practice **`beautiful animated components`** while learning how ani
 1. **💳 `Animated Card`**
 
    * A card component with hover effects.
-   * Includes transitions, transform effects, and subtle animations for a smooth UI experience.
+   * Includes transitions, transform effects, and subtle animations for a `smooth UI` experience.
 
 2. **🔘 `Glowing Button Animation`**
 
