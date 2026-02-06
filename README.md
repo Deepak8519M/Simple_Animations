@@ -1,6 +1,6 @@
 ## ✅👩🏻‍💻 `Simple Animations – Using HTML, CSS, JS`
 
-This folder contains **simple UI components** designed with a focus on **animations** using HTML, CSS, and JavaScript. These are small projects or snippets crafted to explore and understand different  `animation techniques` like **`glowing effects`**, **`rotating elements`**, **`hover transitions`**, and more.
+This Folder contains **simple UI components** designed with a focus on **animations** using HTML, CSS, and JavaScript. These are small projects or snippets crafted to explore and understand different  `animation techniques` like **`glowing effects`**, **`rotating elements`**, **`hover transitions`**, and more.
 
 ### 🎯 `Purpose`
 
